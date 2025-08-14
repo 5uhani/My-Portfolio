@@ -869,4 +869,5 @@ section{
     align-items: center; /* Vertically centers the items */
     gap: 1.5rem;
     flex-wrap: wrap; /* Allows items to wrap on smaller screens */
+
     padding: 50px 10%; 
